@@ -1,0 +1,16 @@
+.online__calculator__title {
+  margin: 160px 0px 40px 100px;
+  max-width: 830px;
+}
+.online__calculator__title__title {
+  font-weight: 800;
+  font-size: 44px;
+  line-height: 56px;
+  color: #1F2428;
+}
+.online__calculator__title__text {
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 36px;
+  color: #1F2428;
+}

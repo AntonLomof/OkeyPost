@@ -1,0 +1,25 @@
+.section__body {
+  font-family: Poppins;
+}
+.EarnWithUsItems {
+  padding: 35px 100px 43px 37px;
+  box-shadow: 0px 0px 70px rgba(138, 138, 138, 0.1);
+  border-radius: 16px;
+  max-width: 500px;
+}
+.EarnWithUsItems__title {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  color: #1F2428;
+  margin-bottom: 10px;
+}
+.EarnWithUsItems__text {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 30px;
+  color: #1F2428;
+}
+.EarnWithUsItems img {
+  margin-bottom: 30px;
+}

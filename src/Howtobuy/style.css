@@ -1,0 +1,6 @@
+@import 'BuyInfo/style.css';
+@import 'HowToBuy/style.css';
+@import 'QuestionLeftLink/style.css';
+.Body {
+  font-family: Poppins;
+}

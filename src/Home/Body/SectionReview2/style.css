@@ -1,0 +1,19 @@
+.reviews2__item {
+  background: #FFFFFF;
+  box-shadow: 0px 0px 70px rgba(138, 138, 138, 0.1);
+  border-radius: 16px;
+}
+.personal__address {
+  font-weight: 800;
+  font-size: 44px;
+  line-height: 56px;
+  color: #1F2428;
+  margin: 0px 100px 12px;
+}
+.personal__address__text {
+  margin: 0px 100px 150px;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 36px;
+  color: #1F2428;
+}

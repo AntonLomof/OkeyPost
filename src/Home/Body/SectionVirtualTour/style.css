@@ -1,0 +1,39 @@
+.virtual__tour {
+  display: flex;
+  margin: 150px 50px;
+  height: 480px;
+  background: linear-gradient(79.63deg, #5B52A3 1.08%, #40B8EA 100%);
+  border-radius: 36px;
+}
+.virtual__tour__img {
+  padding: 38px 0px 37px 150px;
+}
+.virtual__tour__title {
+  margin: 117px 0px 17px;
+  font-weight: 800;
+  font-size: 44px;
+  line-height: 56px;
+  color: #FFFFFF;
+}
+.virtual__tour__text {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  color: #FFFFFF;
+  padding-bottom: 30px;
+}
+.virtual__tour__button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 18px;
+  color: #FFFFFF;
+  width: 240px;
+  height: 66px;
+  background: linear-gradient(90deg, #00C97B 0%, #00D981 96.96%);
+  box-shadow: 0px 4px 4px rgba(1, 203, 124, 0.2);
+  border-radius: 36px;
+  cursor: pointer;
+}

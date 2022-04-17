@@ -1,0 +1,45 @@
+.OrderWithAnOperator {
+  display: flex;
+  align-items: center;
+  margin: 0px 50px 160px;
+  padding: 61px 100px;
+  background: linear-gradient(79.63deg, #5B52A3 1.08%, #40B8EA 100%);
+  border-radius: 36px;
+}
+.OrderWithAnOperator__img {
+  padding-right: 50px;
+}
+.OrderWithAnOperator__title {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 40px;
+  color: #FFFFFF;
+}
+.OrderWithAnOperator__orderImg {
+  max-width: 500px;
+}
+.OrderWithAnOperator__form {
+  border: none;
+}
+.OrderWithAnOperator__form__strip {
+  height: 1px;
+  max-width: 500px;
+  background-color: #FFFFFF;
+}
+.OrderWithAnOperator {
+  margin-right: 50px;
+}
+.OrderWithAnOperator__button__andText {
+  display: flex;
+  margin-top: 20px;
+}
+.OrderWithAnOperator_button {
+  margin-right: 50px;
+  width: 300px;
+}
+.OrderWithAnOperator__button__andText___text {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #FFFFFF;
+}

@@ -1,0 +1,23 @@
+.categories {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0px 100px;
+  background: #FFFFFF;
+  box-shadow: 0px 0px 70px rgba(138, 138, 138, 0.1);
+  border-radius: 16px;
+}
+.categories img {
+  cursor: pointer;
+}
+.categories .categories__item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.categories .categories__item :last-child {
+  margin-left: 10px;
+}
+.categories .categories__item :hover {
+  cursor: pointer;
+}

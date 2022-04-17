@@ -1,0 +1,15 @@
+.LK_Adress_WorkInfo__ToPay {
+  margin: 0px 100px;
+}
+.LK_Adress_WorkInfo__ToPay .ToPay__info {
+  display: flex;
+}
+.LK_Adress_WorkInfo__ToPay .info__item {
+  cursor: pointer;
+  border-bottom: 1px solid #222222;
+  padding: 0px 40px 37px 40px;
+}
+.LK_Adress_WorkInfo__ToPay .info__item__active {
+  color: #01CD7D;
+  border-bottom: 1px solid #01CD7D;
+}

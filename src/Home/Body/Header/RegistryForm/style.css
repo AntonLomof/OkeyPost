@@ -1,0 +1,18 @@
+.RegistryForm {
+  position: absolute;
+  background: #FCFDFF;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 470px;
+  padding: 42px 38px 51px 42px;
+  box-shadow: 0px 0px 70px rgba(138, 138, 138, 0.1);
+  border-radius: 16px;
+  max-width: 350px;
+  margin: auto;
+  z-index: 2;
+}
+.RegistryForm__btn {
+  margin-right: 25px;
+}

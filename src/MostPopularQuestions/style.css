@@ -1,0 +1,9 @@
+@import 'MostPopularQuestions__title/style.css';
+@import 'SearchAnswers/style.css';
+@import 'SectionQuestionsAndAnswers/style.css';
+.Body_div {
+  margin-bottom: 160px;
+}
+.Body {
+  font-family: Poppins;
+}
